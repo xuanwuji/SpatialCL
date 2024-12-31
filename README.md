@@ -9,3 +9,6 @@ The file description is as follows:
 - Transform.py : Different ways of adding noise are defined;
 - GeneAggr2Set : The different way of aggregating expression values of gene pathways is defined
 - workflow.py : Training workflow & infer workflow
+
+![image](https://github.com/xuanwuji/SpatialCL/edit/main/img.png)
+
