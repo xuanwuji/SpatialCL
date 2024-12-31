@@ -10,5 +10,5 @@ The file description is as follows:
 - GeneAggr2Set : The different way of aggregating expression values of gene pathways is defined
 - workflow.py : Training workflow & infer workflow
 
-![image](https://github.com/xuanwuji/SpatialCL/edit/main/img.png)
+![image](https://github.com/xuanwuji/SpatialCL/blob/main/img/img.png)
 
